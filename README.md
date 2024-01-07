@@ -1,5 +1,5 @@
 ---
-title: Ruby Intermediate Concepts and Projects
+Ruby Intermediate Concepts and Projects
 ---
 
 Welcome to the Ruby Intermediate Concepts and Projects repository! This repository is designed to help you deepen your understanding of Ruby programming by exploring various intermediate concepts and building practical projects.
