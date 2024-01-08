@@ -28,3 +28,14 @@ This repository serves as a learning resource for intermediate-level Ruby develo
 1. Clone the repository:
    ```bash
    git clone https://github.com/thekaranchauhan/Ruby_advanced_with-projects.git
+
+## Prerequisites (For Sending Mail Script)
+
+- [Ruby](https://www.ruby-lang.org/) installed on your machine.
+- [MailHog](https://github.com/mailhog/MailHog) installed to act as a local SMTP server.
+
+## Setup
+
+1. **Install Required Ruby Gem:**
+   ```bash
+   gem install net-smtp
