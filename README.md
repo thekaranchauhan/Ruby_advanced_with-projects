@@ -10,18 +10,18 @@ This repository serves as a learning resource for intermediate-level Ruby develo
 
 ## Concepts
 
-1. **Regular Expressions:**
-2. **Database Access:**
-3. **Web Applications:**
-4. **Sending Emails:**
-5. **Socket Programming:**
-6. **Ruby/XML, XSLT:**
-7. **Tk Guide:**
-8. **Ruby/LDAP:**
-9. **Multithreading:**
-10. **Predefined Variables:**
-11. **Predefined Constants:**
-10. **Associated Tools:**
+1. **Regular Expressions:** ✅
+2. **Database Access:** ✅
+3. **Web Applications:** ✅
+4. **Sending Emails:** ✅
+5. **Socket Programming:** ✅
+6. **Ruby/XML, XSLT:** 🧑‍💻
+7. **Tk Guide:** 🧑‍💻
+8. **Ruby/LDAP:** 🧑‍💻
+9. **Multithreading:** 🧑‍💻
+10. **Predefined Variables:** 🧑‍💻
+11. **Predefined Constants:** 🧑‍💻
+10. **Associated Tools:** 🧑‍💻
 
 ## Setup
 
